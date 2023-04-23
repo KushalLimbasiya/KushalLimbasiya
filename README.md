@@ -1,16 +1,15 @@
-### Hi there 👋
+Kushal Limbasiya
+============
 
-<!--
-**KushalLimbasiya/KushalLimbasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [](https://github.com/sanketkheni01/sanketkheni01#tech-enthusiast--big-dreamer--passionate-coder--ui-designer--crafting-beautiful-tech-solutions-to-shape-a-better-future-)Tech-enthusiast 📈, big dreamer 🚀, passionate coder & UI designer 🧑‍💻. Crafting beautiful tech solutions to shape a better future 💻🎨.
 
-Here are some ideas to get you started:
+[![Email](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg)](mailto:kushallimbasiya@gmail.com) 
+[![Twitter](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg)](https://twitter.com/sanket_kheni) 
+[![LinkedIn](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg)](https://www.linkedin.com/in/sanketkheni)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚐ Based in Surat, India
+
+[](https://github.com/kushalLimbasiya/kushalimbasiya#skills)Skills
+---------------------------------------------------------------
+
+[![JavaScript](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg)](https://www.javascript.com/) [![Kotlin](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/kotlin.svg)](https://kotlinlang.org/) [![Python](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg)](https://www.python.org/) [![Typescript](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg)](https://www.typescriptlang.org/) [![React](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg)](https://reactjs.org/) [![Svelte](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/svelte.svg)](http://svelte.dev/) [![NextJS](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg)](https://nextjs.org/) [![Tailwind](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg)](http://tailwindcss.com/) [![Material UI](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg)](https://mui.com/material-ui/) [![NodeJS](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg)](https://nodejs.org/) [![Express](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg)](http://expressjs.com/) [![PostgreSQL](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg)](https://www.postgresql.org/) [![Firebase](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg)](https://firebase.google.com/) [![Heroku](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/heroku.svg)](https://www.heroku.com/) [![Supabase](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/supabase.svg)](https://supabase.com/) [![PlanetScale](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/planetscale.svg)](http://planetscale.com/) [![Prisma](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg)](http://prisma.io/) [![tRPC](https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/trpc.svg)](http://trpc.io/)
