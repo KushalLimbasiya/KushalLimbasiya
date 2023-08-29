@@ -1,14 +1,9 @@
-## 👋 &nbsp;Hi there
+# 👋 &nbsp;Hi there
+![](https://komarev.com/ghpvc/?username=KushalLimbasiya&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-![Profile Visits](https://komarev.com/ghpvc/?username=KushalLimbasiya&label=Profile%20Visits&color=blue&style=for-the-badge)
+<img src="https://github.com/KushalLimbasiya/KushalLimbasiya/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/KushalLimbasiya/KushalLimbasiya/blob/main/assets/life_balance.gif" alt="side Image" width="200" height="auto" style="float: right; margin-left: 20px;" />
-
-  <p>
-    I'm a software developer based in India. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like designing, coding, and building various projects. Slightly obsessed with Data Science.
-  </p>
-</div>
+- I'm a software developer based in india. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like designing, coding and building various projects. Slightly obsessed with Data Science.
 
 &nbsp;
 
