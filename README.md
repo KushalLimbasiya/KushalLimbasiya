@@ -2,14 +2,11 @@
 
 ### Tech-enthusiast 📈, big dreamer 🚀, passionate coder & UI designer 🧑‍💻. Crafting beautiful tech solutions to shape a better future 💻🎨.
 
-
  <a aligh="left" href="mailto:kushallimbasiya@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/LimbasiyaKushal" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/kushal-limbasiya-68635023b" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
-
 <br>
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 ⚐ Based in Surat, India
-
+<br>
 [![](https://visitcount.itsvg.in/api?id=KushalLimbasiya&label=profile%20view&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <br>
 
