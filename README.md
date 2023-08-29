@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+  ### Hello World!  <img src="" width="29px">
 
 ### Tech-enthusiast 📈, big dreamer 🚀, passionate coder & UI designer 🧑‍💻. Crafting beautiful tech solutions to shape a better future 💻🎨.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
