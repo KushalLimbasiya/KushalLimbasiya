@@ -1,5 +1,5 @@
-  ### Hello World!  <img src="https://github.com/KushalLimbasiya/KushalLimbasiya/blob/main/assets/Hi.gif" width="29px">
-
+### Hello World!  <img src="https://github.com/KushalLimbasiya/KushalLimbasiya/blob/main/assets/Hi.gif" width="29px">
+![](https://komarev.com/ghpvc/?username=KushalLimbasiya&label=Profile%20Visits&color=blue&style=for-the-badge)
 ### Tech-enthusiast 📈, big dreamer 🚀, passionate coder & UI designer 🧑‍💻. Crafting beautiful tech solutions to shape a better future 💻🎨.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 <br>
