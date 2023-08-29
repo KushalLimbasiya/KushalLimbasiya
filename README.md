@@ -2,9 +2,9 @@
 
 I'm a software developer based in india. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like designing, coding and building various projects. Slightly obsessed with Data Science.
 
+<img src="https://github.com/KushalLimbasiya/KushalLimbasiya/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 &nbsp;
 
-<img src="https://github.com/KushalLimbasiya/KushalLimbasiya/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 ## 🧰 &nbsp;My toolbox
 
