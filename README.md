@@ -1,4 +1,5 @@
-# Kushal limbasiya
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
 ### Tech-enthusiast 📈, big dreamer 🚀, passionate coder & UI designer 🧑‍💻. Crafting beautiful tech solutions to shape a better future 💻🎨.
 
  <a aligh="left" href="mailto:kushallimbasiya@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/LimbasiyaKushal" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/kushal-limbasiya-68635023b" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
