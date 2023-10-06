@@ -1,7 +1,7 @@
 # 👋 &nbsp;Hi there
 ![](https://komarev.com/ghpvc/?username=KushalLimbasiya&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-A passionate Full Stack App developer
+- A passionate Full Stack App developer
 
 <img src="https://github.com/KushalLimbasiya/KushalLimbasiya/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
