@@ -26,7 +26,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **PWA, React, React Native, Firebase, Nodejs, MongoDB**
+- 🔭 I’m currently working on **PWA, React, React Native, Firebase, Nodejs, MySql**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
