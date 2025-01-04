@@ -26,7 +26,24 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-react-05122A?style=flat-square&logo=react&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=Tailwind&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Php-05122A?style=flat-square&logo=Php&color=353535) ![Bootstrap](https://img.shields.io/badge/-git-05122A?style=flat-square&logo=git&color=353535)
 
+<!--
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushallimbasiya&show_icons=true&locale=en&layout=compact" alt="kushallimbasiya" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=kushallimbasiya&" alt="kushallimbasiya" />
+</div>
+
+
+
+## 📈 Github Stats:
+
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=kushallimbasiya&count_private=true&show_icons=true&theme=gotham)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kushallimbasiya&hide=php&theme=gotham)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=oayodeji&theme=gotham">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kushallimbasiya&count_private=true&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oayodeji&hide=php&theme=gotham">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushallimbasiya&hide=php&theme=gotham" />
+</a>
 </div>
